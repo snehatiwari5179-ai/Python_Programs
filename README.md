@@ -10,6 +10,7 @@ A collection of Python programs and problem-solving exercises focused on develop
 - Leap Year
 - Largest of Three Numbers
 - Valid Triangle
+- Login Checker
 - Discount Calculator
 
 ### Basic Programs
