@@ -9,12 +9,19 @@ A collection of Python programs and problem-solving exercises focused on develop
 - Positive, Negative, or Zero
 - Leap Year
 - Largest of Three Numbers
+- Valid Triangle
+- Discount Calculator
+
+### Basic Programs
+- Basic Calculator
 
 ## Concepts Covered
 - Conditional statements (`if`, `elif`, `else`)
 - Comparison operators
-- Modulo operator (`%`)
 - Logical operators
+- Arithmetic operators
+- Modulo operator (`%`)
 - Conditional logic
+- User input and output
 
 More programs and exercises will be added as the repository grows.
